@@ -9,7 +9,7 @@ nav {
 }
 
 .deck1 {
-  margin-top: 5px;
+  margin-top: 30px;
 }
 
 .jumbotron {
@@ -20,3 +20,11 @@ nav {
 .deck2 {
   margin-left: 110px;
 }
+
+/* .container-fluid { */
+  /* padding:0; */
+/* } */
+
+/* .content {
+  margin: auto;
+} */
