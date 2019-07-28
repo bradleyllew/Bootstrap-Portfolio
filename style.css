@@ -11,3 +11,12 @@ nav {
 .deck1 {
   margin-top: 5px;
 }
+
+.jumbotron {
+  margin: auto;
+  margin-bottom: 10px;
+}
+
+.deck2 {
+  margin-left: 110px;
+}
