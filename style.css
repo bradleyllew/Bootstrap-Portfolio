@@ -18,24 +18,26 @@ nav {
 }
 
 .deck2 {
-  margin-left: 110px;
+  margin-left: 150px;
   margin-bottom: 20px;
 }
 
-/* .container-fluid { */
-  /* padding:0; */
-/* } */
+.deck3 {
+  margin-left: 150px;
+  margin-bottom: 20px;
+}
 
-/* .content {
-  margin: auto;
-} */
-
-.footer {
-  position: fixed;
+/* .footer {
+  /* position: fixed; */
+  /* position: absolute;
   left: 0;
   bottom: 0;
   width: 100%;
   background-color: lightgrey;
   color: white;
   text-align: center;
-}
+} */ 
+
+/* #button { */
+  /* margin-left: 150px; */
+/* } */
