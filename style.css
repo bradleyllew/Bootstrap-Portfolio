@@ -27,3 +27,20 @@ nav {
   margin-bottom: 20px;
 }
 
+.form-group {
+  border-color: f7f7f7;
+}
+
+.header__rainbow {
+  position: absolute;
+  width: 100%;
+  top: 0;
+  height: 0;
+z-index: 99;
+padding-top: 3px;
+  padding-bottom: 3px;
+  background-image: -webkit-linear-gradient(right, #dff7bd, #40f2ec, #add2ed, #ffb2ff);
+  background-image: -moz-linear-gradient(right, #dff7bd, #40f2ec, #add2ed, #ffb2ff);
+  background-image: -o-linear-gradient(right, #dff7bd, #40f2ec, #add2ed, #ffb2ff);
+  background-image: linear-gradient(to left, #dff7bd, #40f2ec, #add2ed, #ffb2ff);
+}
